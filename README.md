@@ -215,20 +215,6 @@ http://localhost:8501
 
 The notebook also documents the use of `streamlit run app.py` to launch the application.
 
-## Future Improvements
-
-Possible improvements include:
-
-* Using a train/test split for model evaluation.
-* Applying cross-validation.
-* Performing hyperparameter tuning for KNN.
-* Testing additional regression algorithms.
-* Using additional relevant vehicle features such as manufacturing year, engine capacity, mileage, power, and torque.
-* Improving categorical encoding.
-* Adding exploratory data analysis and visualizations.
-* Improving the Streamlit interface.
-* Deploying the application online.
-
 ## Author
 
 Rashita Gomes
